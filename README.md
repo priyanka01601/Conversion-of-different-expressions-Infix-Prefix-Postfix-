@@ -3,3 +3,6 @@ The project deals with conversions of different expressions - infix, prefix and 
 
 # Output
 This is the output for prefix to postfix
+
+![image](https://user-images.githubusercontent.com/89138531/147248667-e3031e41-0c91-42a7-95e4-00c0b1e62281.png)
+![image](https://user-images.githubusercontent.com/89138531/147248696-584596a5-e236-4c46-b317-e028243ac453.png)
